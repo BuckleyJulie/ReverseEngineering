@@ -1,19 +1,17 @@
-#Author
+# Author
 
-#Your Name: Julie Buckley
-#Student Number: C00200976
+Name: Julie Buckley
+Student Number: C00200976
 
-#License
+# License
 
 This project is licensed under the GNU General Public License (GPL). See the LICENSE file for more details.
 
-#Project Description
+# Project Description
 
 This project is an x86 Assembly program that reads a string from the user, converts uppercase letters to lowercase and vice versa, and prints the modified string. The program is written in NASM (Netwide Assembler) and runs on Linux (x86, 32-bit environment).
 
-#Instructions to Compile and Run
-
-#Prerequisites
+# Instructions to Compile and Run
 
 Ensure you have NASM and the GCC linker installed:
 
@@ -33,7 +31,7 @@ Run the executable:
 
 ./Project
 
-#Issues/Notes
+# Issues/Notes
 
 The program currently supports only ASCII characters. Non-ASCII input may result in unexpected behavior.
 
