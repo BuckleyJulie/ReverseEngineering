@@ -9,7 +9,7 @@ This project is licensed under the GNU General Public License (GPL). See the LIC
 
 # Project Description
 
-This project is an x86 Assembly program that reads a string from the user, converts uppercase letters to lowercase and vice versa, and prints the modified string. The program is written in NASM (Netwide Assembler) and runs on Linux (x86, 32-bit environment).
+This project is an x86 Assembly program that reads a string from the user, converts uppercase letters to lowercase and vice versa, and prints the modified string.
 
 # Instructions to Compile and Run
 
