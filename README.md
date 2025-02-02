@@ -22,15 +22,15 @@ Compilation & Execution
 
 Assemble the program using NASM:
 
-nasm -f elf32 Project.asm -o Project.o
+nasm -f elf32 swapCase.asm -o swapCase.o
 
 Link the object file using GCC:
 
-gcc -m32 -nostartfiles -o Project Project.o
+gcc -m32 -nostartfiles -o swapCase swapCase.o
 
 Run the executable:
 
-./Project
+./swapCase
 
 # Issues/Notes
 
